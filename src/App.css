@@ -1,0 +1,10 @@
+* {
+    scroll-behavior: smooth;
+    scroll-snap-type: start;
+    scrollbar-width: none; 
+    
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
